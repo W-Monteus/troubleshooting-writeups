@@ -13,3 +13,4 @@ steps, root cause, and resolution.
 | File | Scenario |
 |------|----------|
 | [no-os-found-new-pc-build.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/no-os-found-new-pc-build.md) | New PC build — no operating system found on first boot |
+| [high-memory-chrome-slowdown.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/high-memory-chrome-slowdown.md) | Family member's PC running slow — Chrome pushing RAM to 99% |
