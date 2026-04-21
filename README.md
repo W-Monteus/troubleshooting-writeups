@@ -14,3 +14,4 @@ steps, root cause, and resolution.
 |------|----------|
 | [no-os-found-new-pc-build.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/no-os-found-new-pc-build.md) | New PC build — no operating system found on first boot |
 | [high-memory-chrome-slowdown.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/high-memory-chrome-slowdown.md) | Family member's PC running slow — Chrome pushing RAM to 99% |
+| [no-display-gpu-power-not-connected.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/no-display-gpu-power-not-connected.md) | New PC build — no display output due to GPU not connected to PSU |
