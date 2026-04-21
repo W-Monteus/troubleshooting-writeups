@@ -12,4 +12,4 @@ steps, root cause, and resolution.
 
 | File | Scenario |
 |------|----------|
-| [no-os-on-first-boot.md](link) | New PC build — no operating system found on first boot |
+| [no-os-on-first-boot.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/no-os-on-first-boot.md) | New PC build — no operating system found on first boot |
