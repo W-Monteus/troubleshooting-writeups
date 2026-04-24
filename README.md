@@ -17,3 +17,4 @@ steps, root cause, and resolution.
 | [no-display-gpu-power-not-connected.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/no-display-gpu-power-not-connected.md) | New PC build — no display output due to GPU not connected to PSU |
 | [no-wifi-adapter-card-not-seated.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/no-wifi-adapter-card-not-seated.md) | Desktop PC — no Wi-Fi option after cleaning, Wi-Fi card not fully seated |
 | [random-freezes-dust-buildup-overheating.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/random-freezes-dust-buildup-overheating.md) | Windows 10 desktop — random freezes caused by dust buildup and CPU overheating |
+| [outlook-not-sending-receiving-work-offline.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/outlook-not-sending-receiving-work-offline.md) | Windows 10 laptop — Outlook not sending or receiving, Work Offline mode accidentally enabled |
