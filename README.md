@@ -32,7 +32,6 @@ steps, root cause, and resolution.
 | [no-internet-static-ip-blocking-dhcp.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/no-internet-static-ip-blocking-dhcp.md) | Windows 10 desktop — no internet access on single workstation, static IP preventing DHCP lease |
 | [bsod-kernel-power-failing-hard-drive.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/bsod-kernel-power-failing-hard-drive.md) | Windows 10 desktop — repeated blue screens caused by failing HDD identified via Event Viewer |
 | [usb-drive-not-recognized-code-43-physical-damage.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/usb-drive-not-recognized-code-43-physical-damage.md) | Windows 10 desktop — USB drive not recognized, Code 43 error caused by physical damage from drop |
-
-
 | [account-locked-out-password-expired.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/account-locked-out-password-expired.md) | Windows 10 corporate desktop — account locked out after password expired during vacation |
 | [network-printer-down-paper-jam.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/network-printer-down-paper-jam.md) | Office network printer not responding for multiple users — paper jam cleared |
+| [no-display-post-failure-unseated-ram.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/no-display-post-failure-unseated-ram.md) | Windows 10 desktop — no display on boot, POST failure caused by unseated RAM stick |
