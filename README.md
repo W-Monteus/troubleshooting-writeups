@@ -8,6 +8,14 @@ steps, root cause, and resolution.
 
 ---
 
+## Reference Guides
+
+| File | What it is |
+|------|------------|
+| [quick-reference-sequences.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/quick-reference-sequences.md) | Quick diagnostic sequences for common IT scenarios |
+
+---
+
 ## Write-Ups
 
 | File | Scenario |
