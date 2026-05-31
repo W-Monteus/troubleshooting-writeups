@@ -362,6 +362,23 @@ on real and simulated troubleshooting experience.
 
 ---
 
+## 24. Cannot Print — Stuck Queue / Spooler
+1. Confirm whether others can print to same printer — isolates
+   workstation vs printer/network issue
+2. Check Settings > Devices > Printers & Scanners for printer status
+3. Open print queue — look for stuck jobs
+4. Cancel all jobs
+5. If a job hangs on "Deleting..." — print spooler is hung
+6. Restart Print Spooler: Win + R > services.msc > Print Spooler
+   > right click > Restart
+7. Recheck queue — confirm cleared and printer status Ready
+8. Retry printing to confirm
+9. If queue clears but still won't print — check Printer Properties
+   > Ports tab for correct IP/TCP-IP port mapping
+10. Use vendor-specific driver rather than generic Windows driver
+11. Educate user not to spam print button — adds jobs and hangs spooler
+
+---
 
 *Last updated: May 2026*
 *Add new sequences as new scenarios are documented.*
