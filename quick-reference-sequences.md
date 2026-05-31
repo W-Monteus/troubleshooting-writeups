@@ -282,6 +282,26 @@ on real and simulated troubleshooting experience.
 
 ---
 
+## 20. Random Restarts Without BSOD
+1. Ask when restarts started and what user was doing each time
+2. Ask about recent Windows updates — check update history via
+   Settings > Update & Security > Windows Update > View Update History
+3. Check for dust and thermal issues — rule out overheating
+4. Open Event Viewer > Windows Logs > System
+5. Filter Critical — confirm Kernel-Power Event ID 41 present
+6. Filter Critical and Error — look for events just before each 41
+7. Event ID 7031 Windows Update service — indicates corrupted files
+8. Open Command Prompt as Administrator
+9. Run DISM first: DISM.exe /Online /Cleanup-Image /RestoreHealth
+10. Then run: sfc /scannow
+11. Restart to finalize repairs
+12. Run sfc /scannow again — confirm no integrity violations
+13. Monitor for 20 minutes with Event Viewer open
+14. If update is confirmed problematic — check for uninstall option
+    in Windows Update history
+
+---
+
 
 *Last updated: May 2026*
 *Add new sequences as new scenarios are documented.*
