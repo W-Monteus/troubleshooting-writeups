@@ -302,6 +302,25 @@ on real and simulated troubleshooting experience.
 
 ---
 
+## 21. Screen Flickering
+1. Ask when flickering started and whether a recent update installed
+2. Check Settings > Display > Advanced Display Settings —
+   confirm refresh rate and resolution are correct
+3. Open Device Manager > Display Adapters
+4. Look for yellow warning triangles on display adapter entries
+5. Two adapter entries with warnings indicates driver conflict
+6. Right click adapter > Properties > Driver tab > Roll Back Driver
+7. If Roll Back Driver greyed out — Update Driver > Browse my
+   computer > select previous version manually
+8. Roll back the adapter with the warning triangle first
+9. Restart before making additional changes
+10. Confirm flickering stopped and warning triangles cleared
+11. If flickering persists — download latest driver directly
+    from manufacturer website using laptop make and model
+
+---
+
+
 
 *Last updated: May 2026*
 *Add new sequences as new scenarios are documented.*
