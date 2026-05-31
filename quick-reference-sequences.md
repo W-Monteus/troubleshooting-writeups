@@ -320,6 +320,30 @@ on real and simulated troubleshooting experience.
 
 ---
 
+## 22. No Internet — DNS Failure
+1. Confirm other devices on same network work — isolates
+   device vs DNS/network issue
+2. Run ipconfig — confirm valid IP address assigned
+3. Run nslookup google.com — DNS request timed out confirms
+   DNS resolution failure
+4. Run ipconfig /release > ipconfig /flushdns > ipconfig /renew
+5. Run nslookup google.com again — if still failing DNS server
+   is the problem not the lease
+6. Bypass router DNS with public server:
+   netsh interface ip set dns "Ethernet" static 8.8.8.8
+   (replace Ethernet with Wi-Fi if on wireless)
+7. Run ipconfig /flushdns then nslookup google.com
+8. If nslookup succeeds — router/ISP DNS confirmed as failure
+9. Configure dual public DNS for long term reliability:
+   netsh interface ip set dns "Ethernet" static 1.1.1.1
+   netsh interface ip add dns "Ethernet" 8.8.8.8 index=2
+   ipconfig /flushdns
+10. Test multiple websites to confirm resolution
+11. If specific sites still fail with working DNS — check
+    hosts file at C:\Windows\System32\drivers\etc\hosts
+    for corrupted or tampered entries
+
+---
 
 
 *Last updated: May 2026*
