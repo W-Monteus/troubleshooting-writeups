@@ -345,6 +345,23 @@ on real and simulated troubleshooting experience.
 
 ---
 
+## 23. Slow Boot Time
+1. Ask about system history and recent changes
+2. Check Task Manager > Performance — note storage type (HDD vs SSD)
+3. Check Task Manager > Startup tab FIRST — most common cause
+4. Identify high impact and excessive startup programs
+5. Disable known non-essential programs systematically
+6. Research unrecognized entries before disabling
+7. Leave services that affect peripherals enabled unless certain
+8. Restart to measure boot time improvement
+9. For HDD systems — recommend SSD upgrade as primary long term fix
+10. Note manual defrag provides minimal benefit on modern Windows
+11. For stubborn cases — check msconfig services and Event Viewer
+    Diagnostics-Performance log
+12. Emphasize data backup before any hardware upgrade
+
+---
+
 
 *Last updated: May 2026*
 *Add new sequences as new scenarios are documented.*
