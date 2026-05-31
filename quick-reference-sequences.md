@@ -229,5 +229,19 @@ on real and simulated troubleshooting experience.
 
 ---
 
+## 17. Specific Sites Unreachable — VPN
+1. Ask if affected sites require VPN access
+2. Confirm VPN is connected — check for warning messages
+3. If "Limited network access" — traffic not flowing through tunnel
+4. Try VPN disconnect and reconnect first — fastest fix
+5. Check VPN client version — look for available updates
+6. Update client if behind current version
+7. Reconnect VPN and test previously unreachable sites
+8. If update doesn't resolve — run ipconfig /flushdns and /renew
+9. Enable automatic updates in VPN settings to prevent recurrence
+
+---
+
+
 *Last updated: May 2026*
 *Add new sequences as new scenarios are documented.*
