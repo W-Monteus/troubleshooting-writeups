@@ -50,3 +50,4 @@ steps, root cause, and resolution.
 
 | File | Scenario |
 |------|----------|
+| [switch-uplink-down-bad-rj45-termination.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/network-tech-scenarios/switch-uplink-down-bad-rj45-termination.md) | Switch uplink failure — incorrectly terminated RJ45 causing full segment outage |
