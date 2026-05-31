@@ -43,6 +43,7 @@ steps, root cause, and resolution.
 | [random-restarts-corrupted-windows-update.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/random-restarts-corrupted-windows-update.md) | Windows 10 desktop — random restarts without BSOD caused by corrupted Windows update files |
 | [screen-flickering-display-driver-update-conflict.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/screen-flickering-display-driver-update-conflict.md) | Windows 10 laptop — screen flickering caused by incompatible display driver pushed by Windows update |
 | [no-internet-isp-dns-failure-public-dns-fix.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/no-internet-isp-dns-failure-public-dns-fix.md) | Windows 10 desktop — no internet access caused by ISP DNS server failure, resolved with public DNS configuration |
+| [slow-boot-excessive-startup-programs-hdd.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/slow-boot-excessive-startup-programs-hdd.md) | Windows 10 desktop — extremely slow boot caused by excessive startup programs on aging HDD |
 
 ---
 
