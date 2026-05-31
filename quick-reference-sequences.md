@@ -258,5 +258,30 @@ on real and simulated troubleshooting experience.
 
 ---
 
+## 19. Beeping on Power On — No POST
+1. Count the beep pattern carefully — number and length matter
+2. Check motherboard for fault indicator lights — more reliable
+   than beep codes
+3. Identify motherboard manufacturer — label inside case or
+   model sticker on board itself
+4. Cross reference beep code with manufacturer documentation
+5. Ask about room temperature and environment — heat is a
+   common overlooked factor
+6. If CPU fault light — inspect heatsink for dust and check
+   for CPU fan presence
+7. Power off and unplug before touching internal components
+8. Clean fans and heatsink with compressed air — hold fans still
+9. Remove heatsink — inspect thermal paste condition
+10. If dried or cracked — clean with isopropyl alcohol and
+    apply fresh pea sized dot of thermal paste
+11. Reseat heatsink securely
+12. Perform final check of all components — especially RAM seating
+13. Reassemble and power on — confirm no beeping and POST completes
+14. If still no POST after thermal fix — allow system to cool
+    30 minutes before retrying
+
+---
+
+
 *Last updated: May 2026*
 *Add new sequences as new scenarios are documented.*
