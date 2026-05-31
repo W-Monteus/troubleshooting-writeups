@@ -242,6 +242,21 @@ on real and simulated troubleshooting experience.
 
 ---
 
+## 18. Outlook Password Loop
+1. Ask if account is personal or Microsoft 365 work account
+2. Confirm whether issue is app or web based
+3. If web works but app doesn't — issue is app configuration
+4. Check for Office updates via File > Office Account > Update Options
+5. Navigate to Settings > Accounts > Email & Accounts
+6. Remove the affected account
+7. Re-add account — approve MFA prompt if it appears
+8. Test Outlook — confirm no password prompt on open
+9. Check File > Account Settings > Change — set offline sync to All
+10. If password loop persists after re-add — check Windows
+    Credential Manager for corrupted Microsoft Office entries
+    and remove them before re-adding the account
+
+---
 
 *Last updated: May 2026*
 *Add new sequences as new scenarios are documented.*
