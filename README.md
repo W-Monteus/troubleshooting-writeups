@@ -48,6 +48,7 @@ steps, root cause, and resolution.
 | [cannot-connect-wifi-driver-update-rollback.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/help-desk-scenarios/cannot-connect-wifi-driver-update-rollback.md) | Windows 10 work laptop — cannot connect to office Wi-Fi after IT-pushed driver update |
 | [display-stretched-blurry-wrong-port-motherboard-vs-gpu.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/help-desk-scenarios/display-stretched-blurry-wrong-port-motherboard-vs-gpu.md) | Windows 10 desktop — stretched blurry display caused by monitor plugged into motherboard instead of GPU |
 | [no-audio-disabled-speakers-zoom-exclusive-control.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/help-desk-scenarios/no-audio-disabled-speakers-zoom-exclusive-control.md) | Windows 10 laptop — no audio caused by disabled speakers after Zoom exclusive control crash |
+| [cannot-attach-large-pdf-outlook-size-limit.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/help-desk-scenarios/cannot-attach-large-pdf-outlook-size-limit.md) | Windows 10 Outlook 365 — cannot attach 30 MB PDF, resolved via OneDrive integrated cloud sharing |
 ---
 
 ## Network Technician Scenarios
