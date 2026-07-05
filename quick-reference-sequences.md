@@ -437,5 +437,21 @@ on real and simulated troubleshooting experience.
 
 ---
 
-
+## 28. Cannot Attach Large File to Email
+1. Recognize as standard attachment size limit not a system fault
+2. Outlook default limit is approximately 20 MB
+3. Recommend OneDrive link over compression to preserve file
+   quality especially for PDFs with images
+4. In Outlook 365 — click Attach File > Browse This PC to
+   trigger native prompt to upload to OneDrive and insert link
+5. If prompt does not appear — manual upload via File Explorer,
+   right-click file > Save a Copy > OneDrive, then generate
+   share link from OneDrive
+6. Advise user to add note in email offering direct file
+   delivery as backup — avoids bloating email with redundant
+   compressed attachment
+7. For frequent large file senders — escalate to IT for
+   dedicated SharePoint folder or streamlined workflow setup
+8. Requesting mail server attachment limit increases is
+   generally not approved — OneDrive sharing is corporate standard
 
