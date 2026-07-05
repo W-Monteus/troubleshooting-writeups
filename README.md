@@ -45,7 +45,7 @@ steps, root cause, and resolution.
 | [no-internet-isp-dns-failure-public-dns-fix.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/help-desk-scenarios/no-internet-isp-dns-failure-public-dns-fix.md) | Windows 10 desktop — no internet access caused by ISP DNS server failure, resolved with public DNS configuration |
 | [slow-boot-excessive-startup-programs-hdd.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/help-desk-scenarios/slow-boot-excessive-startup-programs-hdd.md) | Windows 10 desktop — extremely slow boot caused by excessive startup programs on aging HDD |
 | [cannot-print-stuck-queue-hung-spooler.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/help-desk-scenarios/cannot-print-stuck-queue-hung-spooler.md) | Windows 10 desktop — cannot print, stuck print queue and hung print spooler service |
-
+| [cannot-connect-wifi-driver-update-rollback.md](https://github.com/W-Monteus/troubleshooting-writeups/blob/main/help-desk-scenarios/cannot-connect-wifi-driver-update-rollback.md) | Windows 10 work laptop — cannot connect to office Wi-Fi after IT-pushed driver update |
 ---
 
 ## Network Technician Scenarios
