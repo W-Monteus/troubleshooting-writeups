@@ -401,5 +401,21 @@ on real and simulated troubleshooting experience.
 
 ---
 
+## 26. Display Resolution Wrong / Stretched Display
+1. Ask about recent physical changes — moves, unplugs, reorganization
+2. If monitor was recently reconnected — check whether cable is in
+   the GPU port (lower on case, grouped on expansion card) vs
+   motherboard port (upper on rear I/O panel)
+3. Move cable to GPU port if currently in motherboard port
+4. If cable is correctly in GPU port and resolution is still wrong —
+   Settings > System > Display > Display Resolution
+5. Select the option marked "(Recommended)" to set native resolution
+6. If resolution dropdown is missing the correct option — may
+   indicate driver issue, check Device Manager > Display Adapters
+7. Recommend DisplayPort over HDMI for future-proofing — locking
+   connector prevents the wrong port mistake
+
+---
+
 
 
