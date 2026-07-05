@@ -402,5 +402,4 @@ on real and simulated troubleshooting experience.
 ---
 
 
-*Last updated: May 2026*
-*Add new sequences as new scenarios are documented.*
+
