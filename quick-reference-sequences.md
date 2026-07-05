@@ -417,5 +417,25 @@ on real and simulated troubleshooting experience.
 
 ---
 
+## 27. No Audio Output
+1. Run built in audio troubleshooter — read output carefully,
+   error messages often point at the actual cause
+2. Check Settings > System > Sound — note default output device
+3. Open Sound Control Panel from Sound settings
+4. On Playback tab right-click empty space — enable Show Disabled
+   Devices and Show Disconnected Devices
+5. Locate disabled speakers or playback devices
+6. Right-click target device > Enable
+7. Right-click again > Set as Default Device > Apply
+8. Test audio playback
+9. Test peripheral switching (plug/unplug headphones if applicable)
+10. Prevent recurrence: right-click default device > Properties >
+    Advanced > uncheck "Allow applications to take exclusive
+    control of this device" > Apply
+11. For stubborn cases — restart Windows Audio service via
+    services.msc (similar to Print Spooler fix)
+
+---
+
 
 
