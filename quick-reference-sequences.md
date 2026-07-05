@@ -380,5 +380,27 @@ on real and simulated troubleshooting experience.
 
 ---
 
+## 25. Cannot Connect to Wi-Fi
+1. Confirm capslock off and correct network selected
+2. Ask about recent changes or pushed updates
+3. Confirm whether updates were workstation only — rules out
+   network side changes
+4. Check with coworkers — isolates workstation vs broader issue
+5. Run built in network troubleshooter (Settings > System >
+   Troubleshoot > Other Troubleshooters > Network and Internet)
+6. If issue persists after troubleshooter — go to Device Manager
+   > Network Adapters > right click Wi-Fi adapter > Properties
+   > Driver tab > Roll Back Driver
+7. Restart to finalize rollback
+8. Reconnect to network and verify
+9. If Roll Back Driver greyed out — uninstall driver entirely,
+   check "Delete the driver software" if available, restart to
+   let Windows reinstall default driver
+10. In corporate environment escalate driver blocklisting to IT
+    rather than configuring on user machine
+
+---
+
+
 *Last updated: May 2026*
 *Add new sequences as new scenarios are documented.*
